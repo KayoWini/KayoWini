@@ -31,8 +31,8 @@
 
 | Projeto | Descrição | Stack |
 | :---: | :--- | :---: |
-| [**Coinfy**](https://github.com/KayoWini/coinfy-frontend) | Descrição curta do que o projeto faz | React · TypeScript · Vite |
-| [**Nome do projeto 2**](https://github.com/KayoWini/nome-do-repo) | Descrição curta do que o projeto faz | Python |
+| [**Coinfy**](https://github.com/KayoWini/coinfy-frontend) | Planilha de gastos conectada a bancos, que registra automaticamente entradas e saídas para facilitar o controle financeiro | React · TypeScript · Vite |
+| **ProEdu** 🔒 | Plataforma de ensino de lógica e programação em Python para iniciantes (projeto privado, em desenvolvimento) | Python |
 
 </div>
 
